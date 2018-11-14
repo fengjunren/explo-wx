@@ -1,4 +1,3 @@
-# explo-wx
 
 ## Project setup
 ```
