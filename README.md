@@ -51,6 +51,7 @@ yarn install
 yarn run serve
 ```
  
-* 编译打包 (切换到 explo-wx,执行Vue ui)
+* 编译打包 (cmd 切换到 explo-wx,运行 Vue ui)
+
 ![1](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/explor-wx-build1.png)
 ![2](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/explor-wx-build2.png)
