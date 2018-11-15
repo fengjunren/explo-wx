@@ -14,7 +14,7 @@ Vue 公众号前端
 * 后端SpringBoot(https://github.com/fengjunren/Explorer)
 
 ## 代码配置
-* src/config/global.js  (*号部分需要重新填写)
+* src/config/global.js  (*号部分填写自己的域名)
 ```
 function initGlobal (env) {
   let Global = {}
