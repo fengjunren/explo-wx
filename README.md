@@ -7,7 +7,7 @@ Vue 公众号前端
 ![体验](https://raw.githubusercontent.com/fengjunren/fengjunren.github.io/master/dl/wx/%E6%B5%8B%E8%AF%95%E5%85%AC%E4%BC%97%E5%8F%B71.jpg)
 
 ## 准备
-* 安装Vue3.0 CLI (https://cli.vuejs.org/zh/guide/installation.html)
+* 安装Vue CLI (https://cli.vuejs.org/zh/guide/installation.html)
 
 ## 功能介绍
 * 与后端配合实现rsa、aes 组合加密数据传输 (aes 加密数据内容, rsa 加密aes key)
